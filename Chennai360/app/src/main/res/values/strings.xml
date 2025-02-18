@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Chennai360</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="famous_food_chennai">
+        <item>Atho Man</item>
+        <item>Chaat</item>
+        <item>Boli</item>
+        <item>Podi Dosai</item>
+        <item>Idli</item>
+        <item>Vada</item>
+        <item>Bhel Puri</item>
+        <item>Kulfi</item>
+        <item>Idiyappam</item>
+        <item>Jigarthanda</item>
+        <item>Uthappam</item>
+        <item>Puttu</item>
+        <item>Kuzhi Paniyaram</item>
+        <item>Kothu Parotta</item>
+        <item>Murukku</item>
+        <item>Sundal</item>
+        <item>food 17</item>
+        <item>food 18</item>
+        <item>food 19</item>
+    </string-array>
+
+    <string-array name="food_calories">
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+    </string-array>
+
+    <string-array name="food_description">
+        <item>Among the most popular street foods in Chennai, Atho Man is originally a Burmese dish, but it has become so popular in Chennai that people have forgotten its origin. Anyway, Atho Man is a plain orange colored noodles dish mixed and served with fresh raw vegetables. You can see small stalls in almost every corner of the streets of Chennai selling Atho Man, and people lined up to buy a plate.</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+        <item>xxxxxxxxx</item>
+    </string-array>
+
+</resources>

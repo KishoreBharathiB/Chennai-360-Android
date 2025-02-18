@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313489724180",
+    "project_id": "chennai360-4fe31",
+    "storage_bucket": "chennai360-4fe31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313489724180:android:31eb82eab061a923bfe801",
+        "android_client_info": {
+          "package_name": "com.example.chennai360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313489724180-8ui0bictl45sni8b0mrj6f233878oleu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUuHc9wmyUSSX9tKi9xbpBM1VDvfCl3nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313489724180-8ui0bictl45sni8b0mrj6f233878oleu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

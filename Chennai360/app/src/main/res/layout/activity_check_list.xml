@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E8F8FF"
+    tools:context=".CheckList">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/lavender"
+        android:id="@+id/toolbar"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="70dp"
+        android:id="@+id/recyclerView"
+        android:layout_marginBottom="60dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:id="@+id/linearLayout"
+        android:background="#E5F7FF">
+
+        <EditText
+            android:id="@+id/txtAdd"
+            android:layout_width="0dp"
+            android:layout_weight="5"
+            android:layout_height="wrap_content"
+            android:hint="Enter Item to add....."
+            android:textColor="#0015C6"
+            android:textColorHint="@color/lavender"
+            android:textSize="22sp"
+            android:layout_marginLeft="8dp"
+            android:textStyle="bold"
+            />
+        <Button
+            android:id="@+id/btnDelete"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.7"
+            android:background="@drawable/baseline_done_24"
+            android:layout_marginEnd="8dp"/>
+    </LinearLayout>
+</RelativeLayout>
